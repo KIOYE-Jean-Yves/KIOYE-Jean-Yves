@@ -1,3 +1,3 @@
 
 # Bienvenue, je suis KIOYE Togo Jean Yves
-## Je suis diplomé master de mathématiques appliquées, Statistiques appliquées et analyse décisionnelle - SAAD
+## Je suis diplomé d'un master en mathématiques appliquées, Statistiques appliquées et analyse décisionnelle - SAAD
