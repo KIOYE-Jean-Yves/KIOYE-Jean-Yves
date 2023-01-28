@@ -6,7 +6,7 @@ J’ai développé plusieurs compétences dans le domaine de collecte d’inform
 
 ### Publications :
 - [The alpha-skew hyperbolic secant distribution with applications to an astronomical dataset](https://dergipark.org.tr/en/download/article-file/2071542)
-- [Random Matrix-Based Approach for Data Reduction and Sensor Selection with Application to Degradation Index Construction](http://www.icsrs.org)
+- [Random Matrix-Based Approach for Data Reduction and Sensor Selection with Application to Degradation Index Construction](http://www.icsrs.org/icsrs-prog.pdf)
 
 ### Travaux à venir :
 - ( **En construction** )
